@@ -1,0 +1,170 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #bdbec0;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content{
+    background-color: white;
+    text-align: left;
+    margin: 12% auto;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+header{
+    background-color: rgb(77, 77, 126);
+    margin: 0 auto;
+    color: aliceblue;
+    padding: 3% 9%;
+    text-align: left;
+    
+}
+
+section{
+    padding: 2% 9%;
+    text-align: left;
+}
+
+section h2{
+    width: 100%;
+    padding: 2% ;
+    background-color: rgb(77, 77, 126);
+    border-radius: 10px 120px 120px 10px;
+    color: white;
+}
+
+
+
+img{
+    width: 30%;
+    float:right;
+    border-radius: 35% ;
+    border: rgb(77, 77, 126) 10px solid; 
+}
+
+
+
+
+
+
+.coordonné p{
+    width: 30%;
+   
+}
+
+.coordonné a{
+    text-decoration: none;
+    color: white;
+}
+
+.coordonné a:hover{
+    color: rgb(77, 77, 126);
+}
+
+
+.coordonné p{
+    padding-top: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 900px) {
+    body {
+        width: 90%;
+        margin: 0 auto;
+        background-color: #bdbec0;
+    }
+
+    img{
+        width: 70%;
+        float:right;
+        border-radius: 35% ;
+        border: rgb(77, 77, 126) 10px solid; 
+    }
+
+    .content{
+        background-color: white;
+        text-align: left;
+        margin: 12% auto;
+        box-shadow: 5px 10px 8px #888888;
+    }
+    
+    header{
+        background-color: rgb(77, 77, 126);
+        margin: 0 auto;
+        color: aliceblue;
+        padding: 3% 9%;
+        text-align: left;
+
+    }
+
+
+
+
+
+
+    section{
+        padding: 2% 9%;
+        text-align: left;
+    }
+    
+    section h2{
+        width: 100%;
+        padding: 2% ;
+        background-color: rgb(77, 77, 126);
+        border-radius: 10px 120px 120px 10px;
+        color: white;
+    }
+    
+
+    
+
+
+
+
+
+
+
+
+    .coordonné p{
+        width: 100%;
+    }
+    
+    .coordonné a{
+        text-decoration: none;
+        color: white;
+        
+    }
+    
+    .coordonné a:hover{
+        color: rgb(77, 77, 126);
+    }
+    
+    
+    .coordonné p{
+        padding-top: 0%;
+    }
+}
+
+
+
+
+
+
+
